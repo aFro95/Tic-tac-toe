@@ -29,13 +29,13 @@ The Tic Tac Toe Game is a two-player game where players alternate turns to place
 ## Installation
 
 1. Ensure you have Python installed on your system.
-2. Download the script file `tictactoe.py`.
+2. Download the script file `Tic tac toe.py`.
 
 ## Usage
 
 1. Run the Python script in your preferred environment.
    ```sh
-   python tictactoe.py
+   python Tic tac toe.py
     ```
 2. Follow the prompts to enter the row and column numbers for your move.
 3. The game will display the current state of the board after each move.
